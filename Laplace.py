@@ -43,4 +43,4 @@ def isComposite(val):
 		return False
 
 def divisibilityTest(val,by):
-	return val % by == 0:
+	return val % by == 0
